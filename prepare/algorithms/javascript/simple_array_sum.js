@@ -1,3 +1,4 @@
+// https://www.hackerrank.com/challenges/simple-array-sum
 'use strict';
 
 const fs = require('fs');
